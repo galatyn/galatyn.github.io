@@ -1,1 +1,0 @@
-# galatyn.github.io

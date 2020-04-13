@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "VGOV.NO",
+    "description": "",
+    "home_page_url": "https://vgov.no",
+    "feed_url": "https://vgov.no/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "galatyn"
+    },
+    "items": [
+        {
+            "id": "https://vgov.no/blogotvoritelnost-den-0.html",
+            "url": "https://vgov.no/blogotvoritelnost-den-0.html",
+            "title": "Блоготворительность, день 0.",
+            "summary": "О нас поют!",
+            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=74wavG9dhIc\">О нас поют!</a></p>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/74wavG9dhIc\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>",
+            "author": {
+                "name": "galatyn"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-13T15:16:59+02:00",
+            "date_modified": "2020-04-13T15:54:38+02:00"
+        }
+    ]
+}
